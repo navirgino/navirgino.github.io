@@ -6,8 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NavirginoPersonalWebsiteApplication {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         SpringApplication.run(NavirginoPersonalWebsiteApplication.class, args);
+        System.out.println("gouda to goah");
     }
 
 }
