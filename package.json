@@ -1,7 +1,0 @@
-{
-  "name": "navirgino.github.io",
-  "version": "1.0.0",
-  "dependencies": {
-    "materialize-css": "^1.0.0-rc.2"
-  }
-}
