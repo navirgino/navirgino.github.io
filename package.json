@@ -2,6 +2,6 @@
   "name": "navirgino.github.io",
   "version": "1.0.0",
   "dependencies": {
-    "react": "latest"
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
